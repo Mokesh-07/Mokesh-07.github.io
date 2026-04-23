@@ -1,4 +1,7 @@
 # Mokesh Kumar V
+<p align="center">
+  <img src="photo.jpg" alt="Mokesh Kumar V" width="200" style="border-radius:50%">
+</p>
 
 ## 🚀 About Me
 I am a VLSI enthusiast with a strong interest in semiconductor device modeling, digital design, and physical design. I am currently focused on building expertise in silicon engineering and semiconductor supply chain systems.
@@ -36,3 +39,6 @@ Simulated semiconductor devices using Silvaco TCAD tools.
 ## 📫 Contact
 - GitHub: https://github.com/mokesh-07
 - LinkedIn: https://www.linkedin.com/in/mokesh-kumar-v/
+
+
+
