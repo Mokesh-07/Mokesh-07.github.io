@@ -1,6 +1,6 @@
 # Mokesh Kumar V
 <p align="center">
-  <img src="photo.jpg" alt="Mokesh Kumar V" width="200" style="border-radius:50%">
+  <img src="photo.jpg" alt="Mokesh Kumar V" width="200" height="200" style="object-fit:cover;">
 </p>
 
 ## 🚀 About Me
