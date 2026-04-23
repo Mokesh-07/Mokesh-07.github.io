@@ -27,13 +27,12 @@ Simulated semiconductor devices using Silvaco TCAD tools.
 
 ---
 
-## 🎯 Career Focus
-- Silicon Engineering
-- Semiconductor Supply Chain
-- Future Founder of Mokesh Group of Industries (MGI)
-
+## 📈 What I'm Currently Learning
+- Advanced VLSI Physical Design
+- Semiconductor Yield Analysis
+- Python for Data Analysis in Engineering
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/mokesh-07
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/mokesh-kumar-v/
